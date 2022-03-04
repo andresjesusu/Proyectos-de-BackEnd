@@ -1,0 +1,5 @@
+[
+{"title":"Zelda Links Awakening","price":16000,"thumbnail":"https://media.vandal.net/t200/70568/the-legend-of-zelda-links-awakening-2019612813232_1.jpg","id":1},
+{"title":"Zelda Breath of the Wild","price":1500,"thumbnail":"https://media.vandal.net/t200/70568/the-legend-of-zelda-links-awakening-2019612813232_1.jpg","id":2},
+{"title":"Zelda Ocarina of time","price":2000,"thumbnail":"https://media.vandal.net/t200/70568/the-legend-of-zelda-links-awakening-2019612813232_1.jpg","id":3}
+]
